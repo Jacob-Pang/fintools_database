@@ -1,2 +1,2 @@
-# fintools_root_database
+# fintools_database
 root database for fintools package
